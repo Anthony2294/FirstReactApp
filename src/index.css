@@ -1,0 +1,117 @@
+
+
+body {
+
+  background-color: #f4f7f7;
+  margin-top: 4%;
+  
+}
+
+
+h1 {
+
+  font-size: 3.2em;
+  line-height: 1.1;
+
+}
+
+
+
+.list {
+
+  width: 10%; 
+  margin: auto; 
+  padding: 0.5%;
+  border: 0.5px solid gainsboro;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px gray;
+
+
+}
+
+
+
+.listText {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 245%;
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+
+.Banner {
+
+  background-color: #475053;
+  display: flex;
+  justify-content: center;
+  color: white;
+  border-radius: 7%;
+  width: 75%;
+  margin: auto;
+  opacity: 99%;
+  font-size: larger;
+  border: 1px solid gainsboro;
+  border-radius: 25px;
+  box-shadow: 2px 4px 10px black;
+}
+
+
+section {
+
+  background-color: #4d727e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 95%; 
+  height: 1200px;
+  margin: auto;
+  border-radius: 5%;
+  box-shadow: 2px 4px 15px black;
+}
+
+
+.ListBackgroundWhite {
+
+  background-color: white ;
+  border-radius: 7%;
+  margin: 5%;
+  width: 80%;
+
+
+}
+
+
+.InputContainer {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    height: 7%;
+
+
+}
+
+
+.UserInput {
+  
+  width: 70%;
+  height: 95%;
+  font-size: larger;
+
+}
+
+
+.Btn {
+  
+  width: 12%;
+  font-weight: 200;
+  font-size: xx-large;
+
+}
